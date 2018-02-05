@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: Alan Bosco
  * Date: 04-02-2018
- * Time: 11:55 AM
+ * Time: 12:13 AM
  */
 ?>
 <!DOCTYPE html>
@@ -17,7 +17,7 @@
     <img src="enq.png">
 </div>
 <div class="content" style="color: white">
-    <h1>Rapid Fire</h1>
+    <h1>Visual Round</h1>
     <!-- Tab links -->
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, 'London');startCountdown()">Question 1</button>
@@ -48,7 +48,7 @@
 
     <h1 id="time">0:00</h1>
 </div>
-<button href="passing.php" class="button1" >Next</button>
+<button href="rapid.php" class="button1" >Next</button>
 <script type="text/javascript">
 
     //timer function
